@@ -10,3 +10,9 @@ This story has been written by: Briana and Denisa and Florin and Roxana of team 
  Roxana is chill. She is the one that calms the waters between Denisa and Briana. Denisa is the only one that
  can save Briana from her 67 crisis.
 Go to 50 to save Briana or 51 to not save Briana. 
+2
+The mayor reveled a secret map showing the elements of the skibidi were being stolen. He gave the girls their first mission: to protect the city center from the thieves. 
+  Choose what to do next:
+  If you want the Divas to search the city for stolen skibidi go to 30.
+  If you want the Divas to throw a massive party to save the city's vibe go to 31. 
+
