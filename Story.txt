@@ -36,3 +36,7 @@ when she is trying to.
 
 Go to 52 in order to give her the packs when she's not trying to quit and 53 to give it to her when she is trying
 to do so.
+
+53. Denisa tried to quit so many times before but now looking at the pack of cigarettes in front of her she just couldn't say no. Or could she?
+ If she accepts go to 54.
+If she doesn't go to 55.
